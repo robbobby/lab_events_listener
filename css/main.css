@@ -1,3 +1,32 @@
 body {
   font-family: Palatino;
 }
+
+.primary {
+  display: block;
+  padding: 10px;
+}
+
+.form-item {
+  display: inline-block;
+  padding: 10px;  
+}
+
+#new-item-form {
+  
+}
+
+#form-wrapper {
+  display: block;
+}
+
+input[type=submit] {
+  display: block;
+  margin: 10px;
+}
+
+.cool-books {
+  background-color: blue;
+  border: green;
+
+}
